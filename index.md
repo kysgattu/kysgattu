@@ -1,8 +1,5 @@
 # KAMAL YESHODHAR SHASTRY GATTU
 
-
-<img src="https://github.com/kysgattu/Kamal-Yeshodhar-Shastry/blob/main/Files/1641944520165.jpeg" width="250" height="250">
-
 52 Lawrence Dr, Apt. 215, Lowell, Massachusetts.
 
 Contact No: [+1 (571)-732-7250](tel://+1%20(571)-732-7250/) 
