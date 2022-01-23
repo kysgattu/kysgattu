@@ -18,6 +18,38 @@ LinkedIn: [https://www.linkedin.com/in/kysgattu](https://www.linkedin.com/in/kys
 >
 >GPA: **6.73** (On a scale of 10)
 
+## EXPERIENCE
+
+### Cognizant Technology Solutions Pvt Ltd, Hyderabad
+
+**_Programmer Analyst Trainee (Data Integration - ETL Developer)_** | December 2020-November 2021
+
+>Develop and Maintain Data Warehousing System for Customer Relationship Management System for a top client in the Automotive Industry.
+>
+>Perform various ETL Operations depending on client requirements using Informatica PowerCenter and Redshift Database.
+>
+>Preparing System Documentations as required by client.
+>
+>Assisting in HR operations for new joiners to the project.
+
+### Electronics Corporation of India Ltd., Hyderabad
+
+**_Java Trainee &amp; Intern_** | June 2019-July 2019
+
+>Trained in developing Web Applications using Java, MySQL, JavaScript and HTML.
+>
+>Part of a project responsible to develop a web application for conducting Elections online (Online Voting System).
+
+### SmartBridge Educational Services Pvt. Ltd.
+
+**_Machine Learning Trainee &amp; Intern_** | June 2018
+
+>Trained in basic Machine Learning Methodologies using Python and IBM DSX
+>
+>Applying Machine Learning algorithms to answer questions in different scenarios in the fields of Education and Healthcare.
+
+
+
 
 
 
