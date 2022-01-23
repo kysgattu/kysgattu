@@ -13,10 +13,12 @@ LinkedIn: [https://www.linkedin.com/in/kysgattu](https://www.linkedin.com/in/kys
 ## EDUCATION
 
 ### University of Massachusetts Lowell
->**_Master of Science in Computer Science_** | Jan 2022-Present
+>**_Master of Science in Computer Science_**  
+>Jan 2022-Present
 
 ### Jawaharlal Nehru Technological University Hyderabad
->**_Bachelor of Technology in Computer Science &amp; Engineering_** | June 2016-November 2020
+>**_Bachelor of Technology in Computer Science &amp; Engineering_** 
+>June 2016-November 2020
 >
 >GPA: [**6.73** (On a scale of 10)](https://github.com/kysgattu/Profile/blob/b7bb41d4b26a0b12d8f3fab623185f073d52af90/Files/BTech.pdf)
 
@@ -24,7 +26,8 @@ LinkedIn: [https://www.linkedin.com/in/kysgattu](https://www.linkedin.com/in/kys
 
 ### Cognizant Technology Solutions Pvt Ltd, Hyderabad
 
-**_Programmer Analyst Trainee (Data Integration - ETL Developer)_** | [December 2020-November 2021](https://github.com/kysgattu/Profile/blob/b7bb41d4b26a0b12d8f3fab623185f073d52af90/Files/CTS%20Relieving%20Letter.pdf)
+**_Programmer Analyst Trainee (Data Integration - ETL Developer)_** 
+[December 2020-November 2021](https://github.com/kysgattu/Profile/blob/b7bb41d4b26a0b12d8f3fab623185f073d52af90/Files/CTS%20Relieving%20Letter.pdf)
 
 >Develop and Maintain Data Warehousing System for Customer Relationship Management System for a top client in the Automotive Industry.
 >
@@ -36,7 +39,8 @@ LinkedIn: [https://www.linkedin.com/in/kysgattu](https://www.linkedin.com/in/kys
 
 ### Electronics Corporation of India Ltd., Hyderabad
 
-**_Java Trainee &amp; Intern_** | [June 2019-July 2019](https://github.com/kysgattu/Profile/blob/b7bb41d4b26a0b12d8f3fab623185f073d52af90/Files/Internship-ECIL.pdf)
+**_Java Trainee &amp; Intern_** 
+[June 2019-July 2019](https://github.com/kysgattu/Profile/blob/b7bb41d4b26a0b12d8f3fab623185f073d52af90/Files/Internship-ECIL.pdf)
 
 >Trained in developing Web Applications using Java, MySQL, JavaScript and HTML.
 >
@@ -44,7 +48,8 @@ LinkedIn: [https://www.linkedin.com/in/kysgattu](https://www.linkedin.com/in/kys
 
 ### SmartBridge Educational Services Pvt. Ltd.
 
-**_Machine Learning Trainee &amp; Intern_** | [June 2018](https://github.com/kysgattu/Profile/blob/b7bb41d4b26a0b12d8f3fab623185f073d52af90/Files/Internship-Smartbridge.pdf)
+**_Machine Learning Trainee &amp; Intern_** 
+[June 2018](https://github.com/kysgattu/Profile/blob/b7bb41d4b26a0b12d8f3fab623185f073d52af90/Files/Internship-Smartbridge.pdf)
 
 >Trained in basic Machine Learning Methodologies using Python and IBM DSX
 >
