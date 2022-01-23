@@ -115,7 +115,7 @@ LinkedIn: [https://www.linkedin.com/in/kysgattu](https://www.linkedin.com/in/kys
 
 > Have been Co-Ordinator for a Department Technical Fest EclipCse-2018 conducted in college.
 >
->Play and Watch Cricket
+>Follow and play Cricket
 >
 > Participated in Inter Department Cricket Championships.
 >
