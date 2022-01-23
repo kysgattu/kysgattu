@@ -52,7 +52,7 @@ LinkedIn: [https://www.linkedin.com/in/kysgattu](https://www.linkedin.com/in/kys
 
 **_Academic Major Project:_**
 
-|     Project Title        |     :    |     Detection of Recolored Images Using Deep   Discriminative Model                                                                                                                                     |
+>|     Project Title        |     :    |     Detection of Recolored Images Using Deep   Discriminative Model                                                                                                                                     |
 |--------------------------|----------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |     Project Objective    |     :    |     Developing a novel deep learning approach to detect fraudulency in images   based on colors in images using various attributes like Illumination Consistency,   Inter-Channel Correlation, etc., |
 |     Project Duration     |     :    |     January 2020-March 2020 (8th Semester of BTech)                                                                                                                                                     |
@@ -63,7 +63,7 @@ LinkedIn: [https://www.linkedin.com/in/kysgattu](https://www.linkedin.com/in/kys
 
 **_Academic Minor Project (Industry Oriented):_**
 
-|     Project Title        |     :    |     Aadhaar Based Online Voting System                                                                                                                                                                                                    |
+>|     Project Title        |     :    |     Aadhaar Based Online Voting System                                                                                                                                                                                                    |
 |--------------------------|----------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |     Project Objective    |     :    |     Developing an alternative voting channel to   increase voter participation, reduce election costs while upholding the   highest security and integrity standards enabling voters to cast their vote   remotely using the internet.    |
 |     Project Duration     |     :    |     June 2019-July 2019 (7th Semester of BTech)                                                                                                                                                                                           |
@@ -74,7 +74,7 @@ LinkedIn: [https://www.linkedin.com/in/kysgattu](https://www.linkedin.com/in/kys
 
 **_Personal Project:_**
 
-|     Project Title        |     :    |     Face Mask Detection                                                                                                                |
+>|     Project Title        |     :    |     Face Mask Detection                                                                                                                |
 |--------------------------|----------|----------------------------------------------------------------------------------------------------------------------------------------|
 |     Project Objective    |     :    |     Developing a system to   detect whether person in a video/picture is wearing a mask or not using image   recognition techniques    |
 
@@ -82,7 +82,7 @@ LinkedIn: [https://www.linkedin.com/in/kysgattu](https://www.linkedin.com/in/kys
 
 **_Intenship Project:_**
 
-|     Project Title        |     :    |     Health Care – Diabetes                                                                                                                                                                                                                |
+>|     Project Title        |     :    |     Health Care – Diabetes                                                                                                                                                                                                                |
 |--------------------------|----------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |     Project Objective    |     :    |     Analyzing historical data of group of patients and training system to   detect the possibility of a patient having diabetes based on previous health   conditions and finding effects of each health condition on having diabetes.    |
 
@@ -90,7 +90,7 @@ LinkedIn: [https://www.linkedin.com/in/kysgattu](https://www.linkedin.com/in/kys
 ## SKILLS
 
 
-|                              |          |                                                                                             |
+>|                              |          |                                                                                             |
 |------------------------------|----------|---------------------------------------------------------------------------------------------|
 |     Programming Languages    |     :    |     Python, Java, C, C++                                                                    |
 |     ETL Tools                |     :    |     Informatica PowerCenter,     Informatica   Intelligent Cloud Services (IICS)            |
