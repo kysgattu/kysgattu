@@ -68,8 +68,23 @@ LinkedIn: [https://www.linkedin.com/in/kysgattu](https://www.linkedin.com/in/kys
 |     Project Duration     |     :    |     June 2019-July 2019 (7th Semester of BTech)                                                                                                                                                                                           |
 |     Team Size            |     :    |     3                                                                                                                                                                                                                                     |
 |     Role                 |     :    |     Backend Development (Database design and   connectivity)                                                                                                                                                                              |
+</br>
+
+## SKILLS
 
 
+|                              |          |                                                                                             |
+|------------------------------|----------|---------------------------------------------------------------------------------------------|
+|     Programming Languages    |     :    |     Python, Java, C, C++                                                                    |
+|     ETL Tools                |     :    |     Informatica PowerCenter,     Informatica   Intelligent Cloud Services (IICS)            |
+|     Database                 |     :    |     MySQL, PostgreSQL, Amazon Redshift                                                      |
+|     Web Designing            |     :    |     HTML, CSS, JavaScript, JSP                                                              |
+|     Operating Systems        |     :    |     Unix, Windows                                                                           |
+|     IDE                      |     :    |     Anaconda, Jupyter, NetBeans, Eclipse                                                    |
+|     Office Tools             |     :    |     Microsoft Office:     Word, PowerPoint, Excel                                           |
+|     Others                   |     :    |     Performing Data Analysis      Building/Applications of Machine Learning   Algorithms    |
+
+</br>
 You can use the [editor on GitHub](https://github.com/kysgattu/kysgattu.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you comm
