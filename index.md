@@ -80,7 +80,7 @@ LinkedIn: [https://www.linkedin.com/in/kysgattu](https://www.linkedin.com/in/kys
 
 
 
-**_Intenship Project:_**
+**_Internship Project:_**
 
 >|     Project Title        |     :    |     [Health Care – Diabetes](https://github.com/kysgattu/Health-Care-Diabetes)                                                                                                                                                                                                                |
 |--------------------------|----------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
