@@ -48,9 +48,9 @@ LinkedIn: [https://www.linkedin.com/in/kysgattu](https://www.linkedin.com/in/kys
 >
 >Applying Machine Learning algorithms to answer questions in different scenarios in the fields of Education and Healthcare.
 
-## ACADEMIC PROJECTS
+## PROJECTS
 
-**_Major Project:_**
+**_Academic Major Project:_**
 
 |     Project Title        |     :    |     Detection of Recolored Images Using Deep   Discriminative Model                                                                                                                                     |
 |--------------------------|----------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -61,7 +61,7 @@ LinkedIn: [https://www.linkedin.com/in/kysgattu](https://www.linkedin.com/in/kys
 
 
 
-**_Minor Project (Industry Oriented):_**
+**_Academic Minor Project (Industry Oriented):_**
 
 |     Project Title        |     :    |     Aadhaar Based Online Voting System                                                                                                                                                                                                    |
 |--------------------------|----------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -69,6 +69,22 @@ LinkedIn: [https://www.linkedin.com/in/kysgattu](https://www.linkedin.com/in/kys
 |     Project Duration     |     :    |     June 2019-July 2019 (7th Semester of BTech)                                                                                                                                                                                           |
 |     Team Size            |     :    |     3                                                                                                                                                                                                                                     |
 |     Role                 |     :    |     Backend Development (Database design and   connectivity)                                                                                                                                                                              |
+
+
+
+**_Personal Project:_**
+
+|     Project Title        |     :    |     Face Mask Detection                                                                                                                |
+|--------------------------|----------|----------------------------------------------------------------------------------------------------------------------------------------|
+|     Project Objective    |     :    |     Developing a system to   detect whether person in a video/picture is wearing a mask or not using image   recognition techniques    |
+
+
+
+**_Intenship Project:_**
+
+|     Project Title        |     :    |     Health Care – Diabetes                                                                                                                                                                                                                |
+|--------------------------|----------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|     Project Objective    |     :    |     Analyzing historical data of group of patients and training system to   detect the possibility of a patient having diabetes based on previous health   conditions and finding effects of each health condition on having diabetes.    |
 
 
 ## SKILLS
@@ -85,7 +101,8 @@ LinkedIn: [https://www.linkedin.com/in/kysgattu](https://www.linkedin.com/in/kys
 |     Office Tools             |     :    |     Microsoft Office:     Word, PowerPoint, Excel                                           |
 |     Others                   |     :    |     Performing Data Analysis      Building/Applications of Machine Learning   Algorithms    |
 
-</br>
+
+
 
 ## MORE ABOUT ME 
 
