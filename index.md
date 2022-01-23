@@ -58,7 +58,8 @@ LinkedIn: [https://www.linkedin.com/in/kysgattu](https://www.linkedin.com/in/kys
 |     Project Duration     |     :    |     January 2020-March 2020 (8th Semester of BTech)                                                                                                                                                     |
 |     Team Size            |     :    |     4                                                                                                                                                                                                   |
 |     Role                 |     :    |     Algorithm Design and Development (System   Training and Evaluation)                                                                                                                                 |
-</br>
+
+
 
 **_Minor Project (Industry Oriented):_**
 
