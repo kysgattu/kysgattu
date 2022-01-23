@@ -50,7 +50,7 @@ LinkedIn: [https://www.linkedin.com/in/kysgattu](https://www.linkedin.com/in/kys
 
 ## ACADEMIC PROJECTS
 
-**_Major Project_**
+**_Major Project:_**
 
 |     Project Title        |     :    |     Detection of Recolored Images Using Deep   Discriminative Model                                                                                                                                     |
 |--------------------------|----------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -60,7 +60,7 @@ LinkedIn: [https://www.linkedin.com/in/kysgattu](https://www.linkedin.com/in/kys
 |     Role                 |     :    |     Algorithm Design and Development (System   Training and Evaluation)                                                                                                                                 |
 </br>
 
-**_Minor Project (Industry Oriented)_**
+**_Minor Project (Industry Oriented):_**
 
 |     Project Title        |     :    |     Aadhaar Based Online Voting System                                                                                                                                                                                                    |
 |--------------------------|----------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
