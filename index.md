@@ -48,9 +48,26 @@ LinkedIn: [https://www.linkedin.com/in/kysgattu](https://www.linkedin.com/in/kys
 >
 >Applying Machine Learning algorithms to answer questions in different scenarios in the fields of Education and Healthcare.
 
+## ACADEMIC PROJECTS
 
+**_Major Project_**
 
+|     Project Title        |     :    |     Detection of Recolored Images Using Deep   Discriminative Model                                                                                                                                     |
+|--------------------------|----------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|     Project Objective    |     :    |     Developing a novel deep learning approach to detect fraudulency in images   based on colors in images using various attributes like Illumination Consistency,   Inter-Channel Correlation, etc., |
+|     Project Duration     |     :    |     January 2020-March 2020 (8th Semester of BTech)                                                                                                                                                     |
+|     Team Size            |     :    |     4                                                                                                                                                                                                   |
+|     Role                 |     :    |     Algorithm Design and Development (System   Training and Evaluation)                                                                                                                                 |
+</br>
 
+**_Minor Project (Industry Oriented)_**
+
+|     Project Title        |     :    |     Aadhaar Based Online Voting System                                                                                                                                                                                                    |
+|--------------------------|----------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|     Project Objective    |     :    |     Developing an alternative voting channel to   increase voter participation, reduce election costs while upholding the   highest security and integrity standards enabling voters to cast their vote   remotely using the internet.    |
+|     Project Duration     |     :    |     June 2019-July 2019 (7th Semester of BTech)                                                                                                                                                                                           |
+|     Team Size            |     :    |     3                                                                                                                                                                                                                                     |
+|     Role                 |     :    |     Backend Development (Database design and   connectivity)                                                                                                                                                                              |
 
 
 You can use the [editor on GitHub](https://github.com/kysgattu/kysgattu.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
