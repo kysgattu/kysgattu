@@ -85,6 +85,20 @@ LinkedIn: [https://www.linkedin.com/in/kysgattu](https://www.linkedin.com/in/kys
 |     Others                   |     :    |     Performing Data Analysis      Building/Applications of Machine Learning   Algorithms    |
 
 </br>
+
+## MORE ABOUT ME 
+
+> Have been Co-Ordinator for a Department Technical Fest EclipCse-2018 conducted in college.
+>
+>Play and Watch Cricket
+>
+> Participated in Inter Department Cricket Championships.
+>
+> Love to read Fantasy, Fiction Novels
+>
+>A Potterhead and Westerosi!
+
+
 You can use the [editor on GitHub](https://github.com/kysgattu/kysgattu.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you comm
