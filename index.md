@@ -2,7 +2,9 @@
 
 52 Lawrence Dr, Apt. 215, Lowell, Massachusetts.
 
-Contact No: [+1 (571)-732-7250](tel://+1%20(571)-732-7250/) | E-mail: [kysgattu0502@gmail.com](mailto:kysgattu0502@gmail.com)
+Contact No: [+1 (571)-732-7250](tel://+1%20(571)-732-7250/) 
+
+E-mail: [kysgattu0502@gmail.com](mailto:kysgattu0502@gmail.com)
 
 GitHub Profile: [https://github.com/kysgattu](https://github.com/kysgattu)
 
