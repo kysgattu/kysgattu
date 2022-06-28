@@ -15,6 +15,8 @@ LinkedIn: [https://www.linkedin.com/in/kysgattu](https://www.linkedin.com/in/kys
 ### University of Massachusetts Lowell
 >**_Master of Science in Computer Science_**  
 >Jan 2022-Present
+>
+>GPA: **3.67** (On a scale of 4)
 
 ### Jawaharlal Nehru Technological University Hyderabad
 >**_Bachelor of Technology in Computer Science &amp; Engineering_** 
@@ -57,26 +59,39 @@ LinkedIn: [https://www.linkedin.com/in/kysgattu](https://www.linkedin.com/in/kys
 
 ## PROJECTS
 
-**_Academic Major Project:_**
+**_Academic Project:_**
+
+>|     Project Title        |     :    |     [Climate Change Sentiment Analysis](https://github.com/kysgattu/Climate-Change-Twitter-Sentiment-Analysis))                                                                                                                                     |
+|--------------------------|----------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|     Project Objective    |     :    |     Analyzed the opinion of people by performing sentiment analysis on tweets by Twitter users on the topic of Climate Change. Performed an exploratory data analysis and trained models using various traditional machine learning algorithms and a Deep Learning Model using Recurrent Neural Network approach using Text in Tweets and the frequency of some keywords as features.
+ |
+|     Project Duration     |     :    |     Spring 2022                                                                                                                                                     |
+
+**_Academic Project:_**
+
+>|     Project Title        |     :    |     [Citizens Income Prediction_Comparision Of ML Algorithms](https://github.com/kysgattu/Citizens-Income-Prediction_Comparision-Of-ML-Algorithms)                                                                                                                                     |
+|--------------------------|----------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|     Project Objective    |     :    |     Used Adult Income Dataset from UCI Repository to predict the income of citizens and classify people into two categories based on various dependent properties of a person collected during a Census. Developed models using different Traditional Machine Learning Algorithms and used the results obtained are used to compare these algorithms using various evaluation metrics.
+ |
+|     Project Duration     |     :    |     Spring 2022                                                                                                                                                     |
+
+
+
+**_Academic Project:_**
 
 >|     Project Title        |     :    |     [Detection of Recolored Images Using Deep   Discriminative Model](https://github.com/kysgattu/Recolored-Image-Detection)                                                                                                                                     |
 |--------------------------|----------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |     Project Objective    |     :    |     Developing a novel deep learning approach to detect fraudulency in images   based on colors in images using various attributes like Illumination Consistency,   Inter-Channel Correlation, etc., |
 |     Project Duration     |     :    |     January 2020-March 2020 (8th Semester of BTech)                                                                                                                                                     |
-|     Team Size            |     :    |     4                                                                                                                                                                                                   |
-|     Role                 |     :    |     Algorithm Design and Development (System   Training and Evaluation)                                                                                                                                 |
 
 
 
-**_Academic Minor Project (Industry Oriented):_**
+**_Academic Project (Industry Oriented):_**
 
 >|     Project Title        |     :    |     [Aadhaar Based Online Voting System](https://github.com/kysgattu/Online-Voting-System)                                                                                                                                                                                                    |
 |--------------------------|----------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |     Project Objective    |     :    |     Developing an alternative voting channel to   increase voter participation, reduce election costs while upholding the   highest security and integrity standards enabling voters to cast their vote   remotely using the internet.    |
 |     Project Duration     |     :    |     June 2019-July 2019 (7th Semester of BTech)                                                                                                                                                                                           |
-|     Team Size            |     :    |     3                                                                                                                                                                                                                                     |
-|     Role                 |     :    |     Backend Development (Database design and   connectivity)                                                                                                                                                                              |
-
 
 
 **_Personal Project:_**
