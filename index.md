@@ -24,7 +24,7 @@ LinkedIn: [https://www.linkedin.com/in/kysgattu](https://www.linkedin.com/in/kys
 >
 >GPA: [**6.73** (On a scale of 10)](https://github.com/kysgattu/Kamal-Yeshodhar-Shastry/blob/b7bb41d4b26a0b12d8f3fab623185f073d52af90/Files/BTech.pdf)
 
-## EXPERIENCE
+## PROFESSIONAL EXPERIENCE
 
 ### Cognizant Technology Solutions Pvt Ltd, Hyderabad
 
@@ -57,6 +57,17 @@ LinkedIn: [https://www.linkedin.com/in/kysgattu](https://www.linkedin.com/in/kys
 >
 >Applying Machine Learning algorithms to answer questions in different scenarios in the fields of Education and Healthcare.
 
+## OTHER EXPERIENCE
+
+### University of Massachusetts Lowell
+
+**_Orientation Leader_** 
+Summer 2022
+
+>Guiding First-year and transfer undergraduate students through the registration process.
+>
+>Giving campus tours to incoming students.
+
 ## PROJECTS
 
 **_Academic Project:_**
@@ -64,7 +75,7 @@ LinkedIn: [https://www.linkedin.com/in/kysgattu](https://www.linkedin.com/in/kys
 >|     Project Title        |     :    |     [Climate Change Sentiment Analysis](https://github.com/kysgattu/Climate-Change-Twitter-Sentiment-Analysis)                                                                                                                                                                                                    |
 |--------------------------|----------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |     Project Objective    |     :    |     Analyzed the opinion of people by performing sentiment analysis on tweets by Twitter users on the topic of Climate Change. Performed an exploratory data analysis and trained models using various traditional machine learning algorithms and a Deep Learning Model using Recurrent Neural Network approach using Text in Tweets and the frequency of some keywords as features.    |
-|     Project Duration     |     :    |     Spring 20222                                                                                                                                                                                           |
+|     Project Duration     |     :    |     Spring 2022                                                                                                                                                                                           |
 
 
 **_Academic Project:_**
@@ -72,7 +83,7 @@ LinkedIn: [https://www.linkedin.com/in/kysgattu](https://www.linkedin.com/in/kys
 >|     Project Title        |     :    |     [Citizens Income Prediction - Comparision Of ML Algorithms](https://github.com/kysgattu/Citizens-Income-Prediction_Comparision-Of-ML-Algorithms)                                                                                                                                                                                                    |
 |--------------------------|----------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |     Project Objective    |     :    |     Used Adult Income Dataset from UCI Repository to predict the income of citizens and classify people into two categories based on various dependent properties of a person collected during a Census. Developed models using different Traditional Machine Learning Algorithms and used the results obtained are used to compare these algorithms using various evaluation metrics.    |
-|     Project Duration     |     :    |     Spring 20222                                                                                                                                                                                           |
+|     Project Duration     |     :    |     Spring 2022                                                                                                                                                                                           |
 
 
 
