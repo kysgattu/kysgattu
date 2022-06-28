@@ -121,12 +121,19 @@ Summer 2022
 |     Project Objective    |     :    |     Analyzing historical data of group of patients and training system to   detect the possibility of a patient having diabetes based on previous health   conditions and finding effects of each health condition on having diabetes.    |
 
 
+**_Internship Project:_**
+
+>|     Project Title        |     :    |     [User Knowledge Modelling ](https://github.com/kysgattu/User-Knowledge-Modelling)                                                                                                                                                                                                                |
+|--------------------------|----------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|     Project Objective    |     :    |     Developing a Machine Learning model for predicting the students’ knowledge status about the subject of Electrical DC Machines based on certain constraints.    |
+
 ## SKILLS
 
 
 >|                              |          |                                                                                             |
 |------------------------------|----------|---------------------------------------------------------------------------------------------|
 |     Programming Languages    |     :    |     Python, Java, C, C++                                                                    |
+|     Python Libraries         |     :    |     NumPy, Pandas, Scikit-learn, Keras, OpenCV, Matplotlib, Seaborn                         |
 |     ETL Tools                |     :    |     Informatica PowerCenter,     Informatica   Intelligent Cloud Services (IICS)            |
 |     Database                 |     :    |     MySQL, PostgreSQL, Amazon Redshift                                                      |
 |     Web Designing            |     :    |     HTML, CSS, JavaScript, JSP                                                              |
