@@ -61,7 +61,7 @@ LinkedIn: [https://www.linkedin.com/in/kysgattu](https://www.linkedin.com/in/kys
 
 **_Academic Project:_**
 
->|     Project Title        |     :    |     [Climate Change Sentiment Analysis](https://github.com/kysgattu/Climate-Change-Twitter-Sentiment-Analysis))                                                                                                                                                                                                    |
+>|     Project Title        |     :    |     [Climate Change Sentiment Analysis](https://github.com/kysgattu/Climate-Change-Twitter-Sentiment-Analysis)                                                                                                                                                                                                    |
 |--------------------------|----------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |     Project Objective    |     :    |     Analyzed the opinion of people by performing sentiment analysis on tweets by Twitter users on the topic of Climate Change. Performed an exploratory data analysis and trained models using various traditional machine learning algorithms and a Deep Learning Model using Recurrent Neural Network approach using Text in Tweets and the frequency of some keywords as features.    |
 |     Project Duration     |     :    |     Spring 20222                                                                                                                                                                                           |
@@ -69,11 +69,12 @@ LinkedIn: [https://www.linkedin.com/in/kysgattu](https://www.linkedin.com/in/kys
 
 **_Academic Project:_**
 
->|     Project Title        |     :    |     [Citizens Income Prediction_Comparision Of ML Algorithms](https://github.com/kysgattu/Citizens-Income-Prediction_Comparision-Of-ML-Algorithms)                                                                                                                                     |
-|--------------------------|----------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|     Project Objective    |     :    |     Used Adult Income Dataset from UCI Repository to predict the income of citizens and classify people into two categories based on various dependent properties of a person collected during a Census. Developed models using different Traditional Machine Learning Algorithms and used the results obtained are used to compare these algorithms using various evaluation metrics.
- |
-|     Project Duration     |     :    |     Spring 2022                                                                                                                                                     |
+>|     Project Title        |     :    |     [Citizens Income Prediction - Comparision Of ML Algorithms](https://github.com/kysgattu/Citizens-Income-Prediction_Comparision-Of-ML-Algorithms)                                                                                                                                                                                                    |
+|--------------------------|----------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|     Project Objective    |     :    |     Used Adult Income Dataset from UCI Repository to predict the income of citizens and classify people into two categories based on various dependent properties of a person collected during a Census. Developed models using different Traditional Machine Learning Algorithms and used the results obtained are used to compare these algorithms using various evaluation metrics.    |
+|     Project Duration     |     :    |     Spring 20222                                                                                                                                                                                           |
+
+
 
 
 
