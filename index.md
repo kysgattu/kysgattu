@@ -61,11 +61,11 @@ LinkedIn: [https://www.linkedin.com/in/kysgattu](https://www.linkedin.com/in/kys
 
 **_Academic Project:_**
 
->|     Project Title        |     :    |     [Climate Change Sentiment Analysis](https://github.com/kysgattu/Climate-Change-Twitter-Sentiment-Analysis))                                                                                                                                     |
-|--------------------------|----------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|     Project Objective    |     :    |     Analyzed the opinion of people by performing sentiment analysis on tweets by Twitter users on the topic of Climate Change. Performed an exploratory data analysis and trained models using various traditional machine learning algorithms and a Deep Learning Model using Recurrent Neural Network approach using Text in Tweets and the frequency of some keywords as features.
- |
-|     Project Duration     |     :    |     Spring 2022                                                                                                                                                     |
+>|     Project Title        |     :    |     [Climate Change Sentiment Analysis](https://github.com/kysgattu/Climate-Change-Twitter-Sentiment-Analysis))                                                                                                                                                                                                    |
+|--------------------------|----------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|     Project Objective    |     :    |     Analyzed the opinion of people by performing sentiment analysis on tweets by Twitter users on the topic of Climate Change. Performed an exploratory data analysis and trained models using various traditional machine learning algorithms and a Deep Learning Model using Recurrent Neural Network approach using Text in Tweets and the frequency of some keywords as features.    |
+|     Project Duration     |     :    |     Spring 20222                                                                                                                                                                                           |
+
 
 **_Academic Project:_**
 
