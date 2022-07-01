@@ -20,6 +20,8 @@ Here are some ideas to get you started:
 
 E-mail: [kysgattu0502@gmail.com](mailto:kysgattu0502@gmail.com)
 LinkedIn: [https://www.linkedin.com/in/kysgattu](https://www.linkedin.com/in/kysgattu)
+[Click me for Resume](https://kysgattu.github.io/Kamal-Yeshodhar-Shastry/) 
+
 
 ## I have done these!!!
 
