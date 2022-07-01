@@ -29,27 +29,27 @@ Here are some ideas to get you started:
 
 ## I have done these!!!
 
-### 📌[Climate Change Sentiment Analysis](https://github.com/kysgattu/Climate-Change-Twitter-Sentiment-Analysis) 
+### 📌 [Climate Change Sentiment Analysis](https://github.com/kysgattu/Climate-Change-Twitter-Sentiment-Analysis) 
 - Analyzed the opinion of people by performing sentiment analysis on tweets by Twitter users on the topic of Climate Change. 
 - Performed an exploratory data analysis and trained models using various traditional machine learning algorithms and a Deep Learning Model using Recurrent Neural Network approach using Text in Tweets and the frequency of some keywords as features.
 
-### 📌[Citizens Income Prediction - Comparision Of ML Algorithms](https://github.com/kysgattu/Citizens-Income-Prediction_Comparision-Of-ML-Algorithms)
+### 📌 [Citizens Income Prediction - Comparision Of ML Algorithms](https://github.com/kysgattu/Citizens-Income-Prediction_Comparision-Of-ML-Algorithms)
 - Used Adult Income Dataset from UCI Repository to predict the income of citizens and classify people into two categories based on various dependent properties of a person collected during a Census.
 - Developed models using different Traditional Machine Learning Algorithms and used the results obtained are used to compare these algorithms using various evaluation metrics.
 
-### 📌[Face Mask Detection](https://github.com/kysgattu/Face-Mask-Detection) 
+### 📌 [Face Mask Detection](https://github.com/kysgattu/Face-Mask-Detection) 
 - Developed a system to   detect whether person in a video/picture is wearing a mask or not using image   recognition techniques
 
-### 📌[Detection of Recolored Images Using Deep   Discriminative Model](https://github.com/kysgattu/Recolored-Image-Detection)
+### 📌 [Detection of Recolored Images Using Deep   Discriminative Model](https://github.com/kysgattu/Recolored-Image-Detection)
 - Developed a novel deep learning approach to detect fraudulency in images based on colors in images using various attributes like Illumination Consistency, Inter-Channel Correlation, etc.,
 
-### 📌[Aadhaar Based Online Voting System](https://github.com/kysgattu/Online-Voting-System)
+### 📌 [Aadhaar Based Online Voting System](https://github.com/kysgattu/Online-Voting-System)
 - Developed an alternative voting channel to increase voter participation, reduce election costs while upholding the highest security, verifiability and integrity standards which enables voters to exercise their vote from anywhere using internet.                                                                             
 
-### 📌[Health Care – Diabetes](https://github.com/kysgattu/Health-Care-Diabetes) 
+### 📌 [Health Care – Diabetes](https://github.com/kysgattu/Health-Care-Diabetes) 
 - Analyzing historical data of group of patients and training system to   detect the possibility of a patient having diabetes based on previous health   conditions and finding effects of each health condition on having diabetes.
 
-### 📌[User Knowledge Modelling ](https://github.com/kysgattu/User-Knowledge-Modelling)
+### 📌 [User Knowledge Modelling ](https://github.com/kysgattu/User-Knowledge-Modelling)
 - Developing a Machine Learning model for predicting the students’ knowledge status about the subject of Electrical DC Machines based on certain constraints.
 
 ## And I know these.....
