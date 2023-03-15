@@ -67,6 +67,7 @@ Here are some ideas to get you started:
 
 ## I worked with them.....
 
+- **💼 University of Massachusetts Lowell** _Facilities Informations Systems Assistant/Intern (Python/RESR API Developer)_
 - **💼 Cognizant Technology Solutions Pvt Ltd, Hyderabad** _Programmer Analyst Trainee (Data Integration - ETL Developer)_
 - **💼 Electronics Corporation of India Ltd., Hyderabad** _Java Trainee &amp; Intern_ 
 - **💼 SmartBridge Educational Services Pvt. Ltd.** _Machine Learning Trainee &amp; Intern_
