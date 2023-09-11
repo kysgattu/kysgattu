@@ -29,6 +29,12 @@ Here are some ideas to get you started:
 
 ## I have done these!!!
 
+### 📌 [Chest X-Ray Classification to detect COVID-19 using Deep Neural Networks](https://github.com/kysgattu/Chest-X-Ray-Classification-to-detect-COVID-19-using-Deep-Neural-Networks)
+- Developed a reliable method for detecting COVID-19 in patients by analyzing chest X-rays using Deep Learning systems.
+- Three CNN architectures are trained on a Chest Radiography dataset.
+- Analyzed efficiency of standard LeNet, ResNet and VGG networks on Chest X-Ray image classification.
+- GRADCAM is used to detect COVID-19-affected areas in the lungs.
+
 ### 📌 [Climate Change Sentiment Analysis](https://github.com/kysgattu/Climate-Change-Twitter-Sentiment-Analysis) 
 - Analyzed the opinion of people by performing sentiment analysis on tweets by Twitter users on the topic of Climate Change. 
 - Performed an exploratory data analysis and trained models using various traditional machine learning algorithms and a Deep Learning Model using Recurrent Neural Network approach using Text in Tweets and the frequency of some keywords as features.
