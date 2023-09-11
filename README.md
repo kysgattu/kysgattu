@@ -31,29 +31,29 @@ Here are some ideas to get you started:
 
 ### 📌 [Chest X-Ray Classification to detect COVID-19 using Deep Neural Networks](https://github.com/kysgattu/Chest-X-Ray-Classification-to-detect-COVID-19-using-Deep-Neural-Networks)
 - Developed a reliable method for detecting COVID-19 in patients by analyzing chest X-rays using Deep Learning systems.
-- Three CNN architectures are trained on a Chest Radiography dataset.
-- Analyzed efficiency of standard LeNet, ResNet and VGG networks on Chest X-Ray image classification.
+- Four CNN architectures are trained on a Chest Radiography dataset.
+- Analyzed the efficiency of standard LeNet, ResNet, and VGG networks on Chest X-ray image classification.
 - GRADCAM is used to detect COVID-19-affected areas in the lungs.
 
 ### 📌 [Climate Change Sentiment Analysis](https://github.com/kysgattu/Climate-Change-Twitter-Sentiment-Analysis) 
 - Analyzed the opinion of people by performing sentiment analysis on tweets by Twitter users on the topic of Climate Change. 
-- Performed an exploratory data analysis and trained models using various traditional machine learning algorithms and a Deep Learning Model using Recurrent Neural Network approach using Text in Tweets and the frequency of some keywords as features.
+- Performed exploratory data analysis and trained models using various traditional machine learning algorithms and a Deep Learning Model using the Recurrent Neural Network approach using Text in Tweets and the frequency of some keywords as features.
 
 ### 📌 [Citizens Income Prediction - Comparision Of ML Algorithms](https://github.com/kysgattu/Citizens-Income-Prediction_Comparision-Of-ML-Algorithms)
 - Used Adult Income Dataset from UCI Repository to predict the income of citizens and classify people into two categories based on various dependent properties of a person collected during a Census.
 - Developed models using different Traditional Machine Learning Algorithms and used the results obtained are used to compare these algorithms using various evaluation metrics.
 
 ### 📌 [Face Mask Detection](https://github.com/kysgattu/Face-Mask-Detection) 
-- Developed a system to   detect whether person in a video/picture is wearing a mask or not using image   recognition techniques
+- Developed a system to   detect whether the person in a video/picture is wearing a mask or not using image   recognition techniques
 
 ### 📌 [Detection of Recolored Images Using Deep   Discriminative Model](https://github.com/kysgattu/Recolored-Image-Detection)
 - Developed a novel deep learning approach to detect fraudulency in images based on colors in images using various attributes like Illumination Consistency, Inter-Channel Correlation, etc.,
 
 ### 📌 [Aadhaar Based Online Voting System](https://github.com/kysgattu/Online-Voting-System)
-- Developed an alternative voting channel to increase voter participation, reduce election costs while upholding the highest security, verifiability and integrity standards which enables voters to exercise their vote from anywhere using internet.                                                                             
+- Developed an alternative voting channel to increase voter participation, and reduce election costs while upholding the highest security, verifiability, and integrity standards which enables voters to exercise their vote from anywhere using the internet.                                                                             
 
 ### 📌 [Health Care – Diabetes](https://github.com/kysgattu/Health-Care-Diabetes) 
-- Analyzing historical data of group of patients and training system to   detect the possibility of a patient having diabetes based on previous health   conditions and finding effects of each health condition on having diabetes.
+- Analyzing historical data of a group of patients and training system to detect the possibility of a patient having diabetes based on previous health conditions and finding effects of each health condition on having diabetes.
 
 ### 📌 [User Knowledge Modelling ](https://github.com/kysgattu/User-Knowledge-Modelling)
 - Developing a Machine Learning model for predicting the students’ knowledge status about the subject of Electrical DC Machines based on certain constraints.
@@ -73,14 +73,14 @@ Here are some ideas to get you started:
 
 ## I worked with them.....
 
-- **💼 University of Massachusetts Lowell** _Facilities Informations Systems Assistant/Intern (Python/RESR API Developer)_
+- **💼 University of Massachusetts Lowell** _Facilities Informations Systems Assistant/Intern (Python/REST API Developer)_
 - **💼 Cognizant Technology Solutions Pvt Ltd, Hyderabad** _Programmer Analyst Trainee (Data Integration - ETL Developer)_
 - **💼 Electronics Corporation of India Ltd., Hyderabad** _Java Trainee &amp; Intern_ 
 - **💼 SmartBridge Educational Services Pvt. Ltd.** _Machine Learning Trainee &amp; Intern_
 
 ## Know about me more?
 
-🇮🇳-🇺🇸 Born in India - Now living in USA
+🇮🇳-🇺🇸 Born in India - Now living in the USA
 <br>
 🏏 Follow and play Cricket
 <br>
