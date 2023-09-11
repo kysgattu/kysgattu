@@ -89,5 +89,5 @@ Here are some ideas to get you started:
 🪄🐺 A Potterhead and Westerosi!
 <br>
  [🔗 Connect me on LinkedIn!!](https://www.linkedin.com/in/kysgattu/)
- [📷 Or on Instagram](https://www.instagram.com/kamal_ys_gattu/)
+ [📷 Or on Instagram](https://www.instagram.com/kamal.ys.gattu/)
 
