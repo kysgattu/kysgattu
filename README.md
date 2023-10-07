@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 <br>
 🔎 LinkedIn  : [https://www.linkedin.com/in/kysgattu](https://www.linkedin.com/in/kysgattu)
 <br>
-[🔗 Click me for Resume](https://kysgattu.github.io/Kamal-Yeshodhar-Shastry/) 
+[🔗 Click me for Resume](Files/Resume.pdf) 
 
 
 ## I have done these!!!
