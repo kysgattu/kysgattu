@@ -58,22 +58,22 @@ Here are some ideas to get you started:
 ### 📌 [User Knowledge Modelling ](https://github.com/kysgattu/User-Knowledge-Modelling)
 - Developing a Machine Learning model for predicting the students’ knowledge status about the subject of Electrical DC Machines based on certain constraints.
 
-## And I know these.....
+## Talk to me about these.....
 
 - **_💻 Programming Languages:_**  Python, Java, C, C+
-- **_💻 Python Libraries:_**   NumPy, Pandas, Scikit-learn, Keras, OpenCV, Matplotlib, Seaborn 
+- **_💻 Python Libraries:_**   NumPy, Pandas, Scikit-learn, Keras, PyTorch OpenCV, Matplotlib, Seaborn, NLTK 
 - **_💻 Database:_**  MySQL, PostgreSQL, Amazon Redshift
 - **_💻 ETL Tools:_** Informatica PowerCenter, Informatica Intelligent Cloud Services (IICS)
 - **_💻 Web Designing:_** HTML, CSS, JavaScript, JSP
 - **_💻 Operating Systems:_** Unix, Windows
 - **_💻 IDE:_** Eclipse, NetBeans, PyCharm, Jupyter
-- **_💻 Others:_** GitHub, MS Office
+- **_💻 Others:_** GitHub, MS Office, REST API, Microsoft PowerApps
 
 
 
 ## I worked with them.....
 
-- **💼 University of Massachusetts Lowell** _Facilities Informations Systems Assistant/Intern (Python/REST API Developer)_
+- **💼 University of Massachusetts Lowell** _Facilities Informations Systems Assistant/Intern (Python/REST API Developer; Machine Learning Tools expert)_
 - **💼 Cognizant Technology Solutions Pvt Ltd, Hyderabad** _Programmer Analyst Trainee (Data Integration - ETL Developer)_
 - **💼 Electronics Corporation of India Ltd., Hyderabad** _Java Trainee &amp; Intern_ 
 - **💼 SmartBridge Educational Services Pvt. Ltd.** _Machine Learning Trainee &amp; Intern_
