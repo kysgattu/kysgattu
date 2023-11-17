@@ -29,6 +29,12 @@ Here are some ideas to get you started:
 
 ## I have done these!!!
 
+### 📌 [Pedestrian Detection System using YOLO](https://github.com/kysgattu/Pedestrian-Detection-System)
+- Developed a Pedestrian Detection System for the University of Massachusetts Lowell's Campus Planning Department.
+- Utilized advanced Machine Learning Techniques and the formidable YOLO Deep Learning Algorithm to accurately count individuals on specific campus pathways.
+- Introduced a user-friendly interface to enable users to effortlessly upload videos and define detection regions.
+- The system seamlessly executes real-time detection, tracking, and tallying of pedestrians, elevating the Campus Planning Department's efficiency in managing pedestrian flow and reduced 90% manual time.
+
 ### 📌 [Chest X-Ray Classification to detect COVID-19 using Deep Neural Networks](https://github.com/kysgattu/Chest-X-Ray-Classification-to-detect-COVID-19-using-Deep-Neural-Networks)
 - Developed a reliable method for detecting COVID-19 in patients by analyzing chest X-rays using Deep Learning systems.
 - Four CNN architectures are trained on a Chest Radiography dataset.
