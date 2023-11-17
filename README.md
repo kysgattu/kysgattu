@@ -1,4 +1,11 @@
+
+![1700242687193](https://github.com/kysgattu/kysgattu/assets/42197976/f012dd0b-6c57-48ee-acc0-e0f0dea427f2)
+
+
+
+
 ### Hi there! You happened to stumble upon the profile of.....
+
 
 <!--
 **kysgattu/kysgattu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,6 +23,9 @@ Here are some ideas to get you started:
 -->
 
 # KAMAL YESHODHAR SHASTRY GATTU
+#### A Machine Learning and Data Science Enthusiast: Exploring the Field of Data Analysis, Deep Learning and Machine Learning Tools
+
+
 [📖 Master of Science in Computer Science](https://www.uml.edu/Sciences/computer-science/)
 <br>
 [🎓 Bachelor of Technology in Computer Science & Engineering](https://tkrec.ac.in/department-cse/)
