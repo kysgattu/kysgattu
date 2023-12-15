@@ -23,6 +23,12 @@
 
 ## I have done these!!!
 
+### 📌 [Evaluating Cross-domain Adaptability Of Text Summarizer: News Article Summarization](https://github.com/kysgattu/Evaluating-Cross-Domain-Adaptability-Of-Text-Summarizer-News-Article-Summarization)
+- Engineered advanced text summarizers, seamlessly integrating Extractive (TextRank) and Abstractive (BART) techniques for optimizing news article summarization.
+- Enhanced BART Model performance significantly, achieving a 20% improvement over previous implementations.
+- Streamlined a thorough evaluation of cross-domain adaptability, consistently outperforming benchmark ROUGE scores in contrast to the model's original implementation and a fine-tuned BBC News model.
+- Analyzed the abstractive summarizer's adaptability to different domains, affirming its versatility and effectiveness.
+
 ### 📌 [Pedestrian Detection System using YOLO](https://github.com/kysgattu/Pedestrian-Detection-System)
 - Developed a Pedestrian Detection System for the University of Massachusetts Lowell's Campus Planning Department.
 - Utilized advanced Machine Learning Techniques and the formidable YOLO Deep Learning Algorithm to accurately count individuals on specific campus pathways.
