@@ -18,7 +18,7 @@
 <br>
 🔎 LinkedIn  : [https://www.linkedin.com/in/kysgattu](https://www.linkedin.com/in/kysgattu)
 <br>
-[🔗 Short Portfolio](https://kysgattu.github.io/Kamal-Yeshodhar-Shastry/)
+[🔗 Portfolio](https://kysgattu.github.io/Kamal-Yeshodhar-Shastry/)
 
 
 ## I have done these!!!
