@@ -66,22 +66,22 @@
 
 ## Talk to me about these.....
 
-- **_💻 Programming Languages:_**  Python, Java, C, C+
-- **_💻 Python Libraries:_**   NumPy, Pandas, Scikit-learn, Keras, PyTorch OpenCV, Matplotlib, Seaborn, NLTK 
+- **_💻 Programming Languages:_**  Python, Java, JavaScript, C, C+, C#
+- **_💻 Python Libraries:_**   NumPy, Pandas, Scikit-learn, Keras, PyTorch, HuggingFace, Ultralytics, OpenCV, Matplotlib, Seaborn, NLTK 
 - **_💻 Database:_**  MySQL, PostgreSQL, Amazon Redshift
+- **_💻 Web Designing:_** Flask, HTML, CSS, JSP
 - **_💻 ETL Tools:_** Informatica PowerCenter, Informatica Intelligent Cloud Services (IICS)
-- **_💻 Web Designing:_** HTML, CSS, JavaScript, JSP
-- **_💻 Operating Systems:_** Unix, Windows
+- **_💻 Operating Systems:_** Linux, Windows
 - **_💻 IDE:_** Eclipse, NetBeans, PyCharm, Jupyter
-- **_💻 Others:_** GitHub, MS Office, REST API, Microsoft PowerApps
-
+- **_💻 Others:_** GitHub, REST API, Google Apps Script, Microsoft PowerApps, MS Office
 
 
 ## I worked with them.....
 
+- **💼 Hooke Laboratories, LLC** _Systems Engineer (Python Developer - Software Development; Machine Learning Engineer; IOT Developer)_
 - **💼 University of Massachusetts Lowell** _Facilities Informations Systems Assistant/Intern (Python/REST API Developer; Machine Learning Tools expert)_
-- **💼 Cognizant Technology Solutions Pvt Ltd, Hyderabad** _Programmer Analyst Trainee (Data Integration - ETL Developer)_
-- **💼 Electronics Corporation of India Ltd., Hyderabad** _Java Trainee &amp; Intern_ 
+- **💼 Cognizant Technology Solutions India Pvt. Ltd.,** _Programmer Analyst Trainee (Data Integration - ETL Developer)_
+- **💼 Electronics Corporation of India Ltd.,** _Java Trainee &amp; Intern_ 
 - **💼 SmartBridge Educational Services Pvt. Ltd.** _Machine Learning Trainee &amp; Intern_
 
 ## Know about me more?
