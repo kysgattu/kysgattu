@@ -95,5 +95,3 @@
 🪄🐺 A Potterhead and Westerosi!
 <br>
 
- [📷 Know about me more on Instagram](https://www.instagram.com/kamal.ys.gattu/)
-
