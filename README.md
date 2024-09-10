@@ -81,8 +81,8 @@
 - **💼 Hooke Laboratories, LLC** _Systems Engineer (Python Developer - Software Development; Machine Learning Engineer; IOT Developer)_
 - **💼 University of Massachusetts Lowell** _Facilities Informations Systems Assistant/Intern (Python/REST API Developer; Machine Learning Tools expert)_
 - **💼 Cognizant Technology Solutions India Pvt. Ltd.,** _Programmer Analyst Trainee (Data Integration - ETL Developer)_
-- **💼 Electronics Corporation of India Ltd.,** _Java Trainee &amp; Intern_ 
-- **💼 SmartBridge Educational Services Pvt. Ltd.** _Machine Learning Trainee &amp; Intern_
+- **💼 Electronics Corporation of India Ltd.,** _Java Trainee &amp; Intern (Web Developer Intern)_
+- **💼 SmartBridge Educational Services Pvt. Ltd.** _Machine Learning Trainee &amp; Intern (Machine Learning Intern)_
 
 ## Know about me more?
 
