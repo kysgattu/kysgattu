@@ -1,6 +1,5 @@
 # KAMAL YESHODHAR SHASTRY GATTU
 
-52 Lawrence Dr, Apt. 215, Lowell, Massachusetts.
 
 Contact No: [+1 (571)-732-7250](tel://+1%20(571)-732-7250/) 
 

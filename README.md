@@ -1,97 +1,93 @@
-
 ![1700242687193](https://github.com/kysgattu/kysgattu/assets/42197976/f012dd0b-6c57-48ee-acc0-e0f0dea427f2)
-
-
-
 
 ### Hi there! You happened to stumble upon the profile of.....
 
 # KAMAL YESHODHAR SHASTRY GATTU
-#### A Machine Learning and Data Science Enthusiast: Exploring the Field of Data Analysis, Deep Learning and Machine Learning Tools
+#### Software systems engineer building software, machine learning, computer vision, and IoT tools for research labs
 
+[🔗 Portfolio](https://kysgattu.github.io/Kamal-Yeshodhar-Shastry/) &nbsp;|&nbsp;
+[🔎 LinkedIn](https://www.linkedin.com/in/kysgattu) &nbsp;|&nbsp;
+[📧 kysgattu0502@gmail.com](mailto:kysgattu0502@gmail.com)
 
-[📖 Master of Science in Computer Science](https://www.uml.edu/Sciences/computer-science/)
-<br>
-[🎓 Bachelor of Technology in Computer Science & Engineering](https://tkrec.ac.in/department-cse/)
+## What I'm doing now.....
 
-📧 E-mail : [kysgattu0502@gmail.com](mailto:kysgattu0502@gmail.com)
-<br>
-🔎 LinkedIn  : [https://www.linkedin.com/in/kysgattu](https://www.linkedin.com/in/kysgattu)
-<br>
-[🔗 Portfolio](https://kysgattu.github.io/Kamal-Yeshodhar-Shastry/)
+🔭 **Systems Engineer at Hooke Laboratories**, where I lead a small engineering team and own a portfolio of 30+ internal tools, taking each one from requirements through deployment and long-term support.
 
+- 🛠️ **Software development:** desktop applications, web apps, and document tooling in Python, Flask, Tkinter, and Google Apps Script, adopted across the organization
+- 🧠 **Machine learning and AI:** pose estimation pipelines with DeepLabCut and multi-camera 3D reconstruction, tissue analysis models, and LLM pipelines for faster access to organizational data
+- 🔬 **Research tooling:** Python applications that support entire laboratory workflows, built alongside the scientists who use them
+- 🔐 **Data security:** an in-house data loss prevention platform for outbound email
+- 📡 **IoT and automation:** Raspberry Pi and MQTT monitoring for laboratory equipment, an RFID-based timesheet system, and dozens of Google Workspace automations
+- 🖥️ **Infrastructure:** Linux servers, Docker, and ZFS storage
+
+_My work at Hooke lives in private organization repositories, so the projects below are from my academic and independent work._
 
 ## I have done these!!!
 
-### 📌 [Evaluating Cross-domain Adaptability Of Text Summarizer: News Article Summarization](https://github.com/kysgattu/Evaluating-Cross-Domain-Adaptability-Of-Text-Summarizer-News-Article-Summarization)
-- Engineered advanced text summarizers, seamlessly integrating Extractive (TextRank) and Abstractive (BART) techniques for optimizing news article summarization.
-- Enhanced BART Model performance significantly, achieving a 20% improvement over previous implementations.
-- Streamlined a thorough evaluation of cross-domain adaptability, consistently outperforming benchmark ROUGE scores in contrast to the model's original implementation and a fine-tuned BBC News model.
-- Analyzed the abstractive summarizer's adaptability to different domains, affirming its versatility and effectiveness.
+### 📌 [Evaluating Cross-domain Adaptability of Text Summarizer: News Article Summarization](https://github.com/kysgattu/Evaluating-Cross-Domain-Adaptability-Of-Text-Summarizer-News-Article-Summarization)
+- Built extractive (TextRank) and abstractive (BART) text summarizers for news article summarization.
+- Improved BART performance by 20% over previous implementations.
+- Evaluated cross-domain adaptability, outperforming benchmark ROUGE scores against the original model and a fine-tuned BBC News model.
 
 ### 📌 [Pedestrian Detection System using YOLO](https://github.com/kysgattu/Pedestrian-Detection-System)
-- Developed a Pedestrian Detection System for the University of Massachusetts Lowell's Campus Planning Department.
-- Utilized advanced Machine Learning Techniques and the formidable YOLO Deep Learning Algorithm to accurately count individuals on specific campus pathways.
-- Introduced a user-friendly interface to enable users to effortlessly upload videos and define detection regions.
-- The system seamlessly executes real-time detection, tracking, and tallying of pedestrians, elevating the Campus Planning Department's efficiency in managing pedestrian flow and reduced 90% manual time.
+- Built a pedestrian detection system for the UMass Lowell Campus Planning department.
+- Applied YOLO object detection with real-time tracking to detect, follow, and count pedestrians across defined regions of campus pathways.
+- Built an interface for uploading videos and defining regions of interest, reducing manual planning time by 90%.
 
-### 📌 [Chest X-Ray Classification to detect COVID-19 using Deep Neural Networks](https://github.com/kysgattu/Chest-X-Ray-Classification-to-detect-COVID-19-using-Deep-Neural-Networks)
-- Developed a reliable method for detecting COVID-19 in patients by analyzing chest X-rays using Deep Learning systems.
-- Four CNN architectures are trained on a Chest Radiography dataset.
-- Analyzed the efficiency of standard LeNet, ResNet, and VGG networks on Chest X-ray image classification.
-- GRADCAM is used to detect COVID-19-affected areas in the lungs.
+### 📌 [Chest X-Ray Classification to Detect COVID-19 Using Deep Neural Networks](https://github.com/kysgattu/Chest-X-Ray-Classification-to-detect-COVID-19-using-Deep-Neural-Networks)
+- Trained ResNet, VGG, and LeNet architectures to classify 42,000 chest X-ray images into four categories, reaching 92% accuracy on COVID-19 detection.
+- Used Grad-CAM to highlight COVID-19-affected regions of the lungs.
 
-### 📌 [Climate Change Sentiment Analysis](https://github.com/kysgattu/Climate-Change-Twitter-Sentiment-Analysis) 
-- Analyzed the opinion of people by performing sentiment analysis on tweets by Twitter users on the topic of Climate Change. 
-- Performed exploratory data analysis and trained models using various traditional machine learning algorithms and a Deep Learning Model using the Recurrent Neural Network approach using Text in Tweets and the frequency of some keywords as features.
+### 📌 [Climate Change Sentiment Analysis](https://github.com/kysgattu/Climate-Change-Twitter-Sentiment-Analysis)
+- Performed sentiment and exploratory analysis on 43,000+ tweets about climate change.
+- Compared traditional machine learning models with a recurrent neural network using tweet text and keyword frequency, reaching 96% accuracy.
 
-### 📌 [Citizens Income Prediction - Comparision Of ML Algorithms](https://github.com/kysgattu/Citizens-Income-Prediction_Comparision-Of-ML-Algorithms)
-- Used Adult Income Dataset from UCI Repository to predict the income of citizens and classify people into two categories based on various dependent properties of a person collected during a Census.
-- Developed models using different Traditional Machine Learning Algorithms and used the results obtained are used to compare these algorithms using various evaluation metrics.
+### 📌 [Citizens Income Prediction: Comparison of ML Algorithms](https://github.com/kysgattu/Citizens-Income-Prediction_Comparision-Of-ML-Algorithms)
+- Predicted citizen income from the UCI Adult Income dataset (48,000 samples) using a range of machine learning algorithms.
+- Compared models with confusion matrices, F1, precision, recall, and accuracy; Random Forest performed best at 92% accuracy.
 
-### 📌 [Face Mask Detection](https://github.com/kysgattu/Face-Mask-Detection) 
-- Developed a system to   detect whether the person in a video/picture is wearing a mask or not using image   recognition techniques
+### 📌 [Face Mask Detection](https://github.com/kysgattu/Face-Mask-Detection)
+- Built a CNN-based system that detects whether people in images or live webcam video are wearing masks, at 90% accuracy.
 
-### 📌 [Detection of Recolored Images Using Deep   Discriminative Model](https://github.com/kysgattu/Recolored-Image-Detection)
-- Developed a novel deep learning approach to detect fraudulency in images based on colors in images using various attributes like Illumination Consistency, Inter-Channel Correlation, etc.,
+### 📌 [Detection of Recolored Images Using Deep Discriminative Model](https://github.com/kysgattu/Recolored-Image-Detection)
+- Implemented an IEEE paper's deep learning approach to detecting recolored images using illumination consistency and inter-channel correlation, improving accuracy by 10%.
 
 ### 📌 [Aadhaar Based Online Voting System](https://github.com/kysgattu/Online-Voting-System)
-- Developed an alternative voting channel to increase voter participation, and reduce election costs while upholding the highest security, verifiability, and integrity standards which enables voters to exercise their vote from anywhere using the internet.                                                                             
+- Built a secure online voting channel with Java Server Pages and SQL, used by 2,000+ students in a student body election.
 
-### 📌 [Health Care – Diabetes](https://github.com/kysgattu/Health-Care-Diabetes) 
-- Analyzing historical data of a group of patients and training system to detect the possibility of a patient having diabetes based on previous health conditions and finding effects of each health condition on having diabetes.
+### 📌 [Health Care: Diabetes](https://github.com/kysgattu/Health-Care-Diabetes)
+- Analyzed historical patient data to predict the likelihood of diabetes and measure how each health condition contributes to it.
 
-### 📌 [User Knowledge Modelling ](https://github.com/kysgattu/User-Knowledge-Modelling)
-- Developing a Machine Learning model for predicting the students’ knowledge status about the subject of Electrical DC Machines based on certain constraints.
+### 📌 [User Knowledge Modelling](https://github.com/kysgattu/User-Knowledge-Modelling)
+- Built a machine learning model predicting students' knowledge levels in Electrical DC Machines.
 
 ## Talk to me about these.....
 
-- **_💻 Programming Languages:_**  Python, Java, JavaScript, C, C+, C#
-- **_💻 Python Libraries:_**   NumPy, Pandas, Scikit-learn, Keras, PyTorch, HuggingFace, Ultralytics, OpenCV, Matplotlib, Seaborn, NLTK 
-- **_💻 Database:_**  MySQL, PostgreSQL, Amazon Redshift
-- **_💻 Web Designing:_** Flask, HTML, CSS, JSP
-- **_💻 ETL Tools:_** Informatica PowerCenter, Informatica Intelligent Cloud Services (IICS)
-- **_💻 Operating Systems:_** Linux, Windows
-- **_💻 IDE:_** Eclipse, NetBeans, PyCharm, Jupyter
-- **_💻 Others:_** GitHub, REST API, Google Apps Script, Microsoft PowerApps, MS Office
-
+- **_💻 Programming Languages:_** Python, JavaScript, Google Apps Script, Java, C, C++, C#, PowerShell, Bash
+- **_🧠 Machine Learning and AI:_** PyTorch, TensorFlow, Keras, Scikit-learn, Hugging Face, Ultralytics (YOLO), DeepLabCut, OpenCV, NLTK
+- **_📊 Data:_** NumPy, Pandas, Matplotlib, Seaborn
+- **_🗄️ Databases:_** MySQL, MariaDB, PostgreSQL, Microsoft SQL Server, Amazon Redshift
+- **_🌐 Applications:_** Flask, Streamlit, Tkinter, PyInstaller, HTML, CSS
+- **_📡 Infrastructure and IoT:_** Linux, Docker, ZFS, Raspberry Pi, MQTT, Home Assistant
+- **_🔄 ETL Tools:_** Informatica PowerCenter, Informatica Intelligent Cloud Services (IICS)
+- **_🧰 Others:_** Git, GitHub, REST APIs, Google Workspace APIs, Office COM Automation, Apache Tika, VS Code, Jupyter
 
 ## I worked with them.....
 
-- **💼 Hooke Laboratories, LLC** _Systems Engineer (Python Developer - Software Development; Machine Learning Engineer; IOT Developer)_
-- **💼 University of Massachusetts Lowell** _Facilities Informations Systems Assistant/Intern (Python/REST API Developer; Machine Learning Tools expert)_
-- **💼 Cognizant Technology Solutions India Pvt. Ltd.,** _Programmer Analyst Trainee (Data Integration - ETL Developer)_
-- **💼 Electronics Corporation of India Ltd.,** _Java Trainee &amp; Intern (Web Developer Intern)_
-- **💼 SmartBridge Educational Services Pvt. Ltd.** _Machine Learning Trainee &amp; Intern (Machine Learning Intern)_
+- **💼 Hooke Laboratories, LLC** _Systems Engineer (Software Development, Machine Learning, IoT, and Team Lead)_
+- **💼 University of Massachusetts Lowell** _Facilities Information Systems Assistant (Python and REST API Developer; Machine Learning)_
+- **💼 Cognizant Technology Solutions India Pvt. Ltd.** _Programmer Analyst Trainee (Data Integration and ETL Developer)_
+- **💼 Electronics Corporation of India Ltd.** _Java Trainee and Intern (Web Developer Intern)_
+- **💼 SmartBridge Educational Services Pvt. Ltd.** _Machine Learning Trainee and Intern_
 
 ## Know about me more?
 
-🇮🇳-🇺🇸 Born in India - Now living in the USA
+🎓 M.S. in Computer Science, [UMass Lowell](https://www.uml.edu/Sciences/computer-science/) &nbsp;|&nbsp; B.Tech in Computer Science and Engineering, [TKREC](https://tkrec.ac.in/department-cse/)
 <br>
-🏏 Follow and play Cricket
+🇮🇳-🇺🇸 Born in India, now living in the USA
 <br>
-📚 Love to read Fantasy, Fiction Novels
+🏏 Follow and play cricket
+<br>
+📚 Love to read fantasy and fiction novels
 <br>
 🪄🐺 A Potterhead and Westerosi!
-<br>
-
