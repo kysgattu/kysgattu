@@ -1,159 +1,93 @@
+![1700242687193](https://github.com/kysgattu/kysgattu/assets/42197976/f012dd0b-6c57-48ee-acc0-e0f0dea427f2)
+
+### Hi there! You happened to stumble upon the profile of.....
+
 # KAMAL YESHODHAR SHASTRY GATTU
+#### Software systems engineer building software, machine learning, computer vision, and IoT tools for research labs
 
+[🔗 Portfolio](https://kysgattu.github.io/Kamal-Yeshodhar-Shastry/) &nbsp;|&nbsp;
+[🔎 LinkedIn](https://www.linkedin.com/in/kysgattu) &nbsp;|&nbsp;
+[📧 kysgattu0502@gmail.com](mailto:kysgattu0502@gmail.com)
 
-Contact No: [+1 (571)-732-7250](tel://+1%20(571)-732-7250/) 
+## What I'm doing now.....
 
-E-mail: [kysgattu0502@gmail.com](mailto:kysgattu0502@gmail.com)
+🔭 **Systems Engineer at Hooke Laboratories**, where I lead a small engineering team and own a portfolio of 30+ internal tools, taking each one from requirements through deployment and long-term support.
 
-GitHub Profile: [https://github.com/kysgattu](https://github.com/kysgattu)
+- 🛠️ **Software development:** desktop applications, web apps, and document tooling in Python, Flask, Tkinter, and Google Apps Script, adopted across the organization
+- 🧠 **Machine learning and AI:** pose estimation pipelines with DeepLabCut and multi-camera 3D reconstruction, tissue analysis models, and LLM pipelines for faster access to organizational data
+- 🔬 **Research tooling:** Python applications that support entire laboratory workflows, built alongside the scientists who use them
+- 🔐 **Data security:** an in-house data loss prevention platform for outbound email
+- 📡 **IoT and automation:** Raspberry Pi and MQTT monitoring for laboratory equipment, an RFID-based timesheet system, and dozens of Google Workspace automations
+- 🖥️ **Infrastructure:** Linux servers, Docker, and ZFS storage
 
-LinkedIn: [https://www.linkedin.com/in/kysgattu](https://www.linkedin.com/in/kysgattu)
+_My work at Hooke lives in private organization repositories, so the projects below are from my academic and independent work._
 
-## EDUCATION
+## I have done these!!!
 
-### University of Massachusetts Lowell
->**_Master of Science in Computer Science_**  
->Jan 2022-Present
->
->GPA: **3.67** (On a scale of 4)
+### 📌 [Evaluating Cross-domain Adaptability of Text Summarizer: News Article Summarization](https://github.com/kysgattu/Evaluating-Cross-Domain-Adaptability-Of-Text-Summarizer-News-Article-Summarization)
+- Built extractive (TextRank) and abstractive (BART) text summarizers for news article summarization.
+- Improved BART performance by 20% over previous implementations.
+- Evaluated cross-domain adaptability, outperforming benchmark ROUGE scores against the original model and a fine-tuned BBC News model.
 
-### Jawaharlal Nehru Technological University Hyderabad
->**_Bachelor of Technology in Computer Science &amp; Engineering_** 
->June 2016-November 2020
->
->GPA: [**6.73** (On a scale of 10)](https://github.com/kysgattu/Kamal-Yeshodhar-Shastry/blob/b7bb41d4b26a0b12d8f3fab623185f073d52af90/Files/BTech.pdf)
+### 📌 [Pedestrian Detection System using YOLO](https://github.com/kysgattu/Pedestrian-Detection-System)
+- Built a pedestrian detection system for the UMass Lowell Campus Planning department.
+- Applied YOLO object detection with real-time tracking to detect, follow, and count pedestrians across defined regions of campus pathways.
+- Built an interface for uploading videos and defining regions of interest, reducing manual planning time by 90%.
 
-## PROFESSIONAL EXPERIENCE
+### 📌 [Chest X-Ray Classification to Detect COVID-19 Using Deep Neural Networks](https://github.com/kysgattu/Chest-X-Ray-Classification-to-detect-COVID-19-using-Deep-Neural-Networks)
+- Trained ResNet, VGG, and LeNet architectures to classify 42,000 chest X-ray images into four categories, reaching 92% accuracy on COVID-19 detection.
+- Used Grad-CAM to highlight COVID-19-affected regions of the lungs.
 
-### Cognizant Technology Solutions Pvt Ltd, Hyderabad
+### 📌 [Climate Change Sentiment Analysis](https://github.com/kysgattu/Climate-Change-Twitter-Sentiment-Analysis)
+- Performed sentiment and exploratory analysis on 43,000+ tweets about climate change.
+- Compared traditional machine learning models with a recurrent neural network using tweet text and keyword frequency, reaching 96% accuracy.
 
-**_Programmer Analyst Trainee (Data Integration - ETL Developer)_** 
-[December 2020-November 2021](https://github.com/kysgattu/Kamal-Yeshodhar-Shastry/blob/b7bb41d4b26a0b12d8f3fab623185f073d52af90/Files/CTS%20Relieving%20Letter.pdf)
+### 📌 [Citizens Income Prediction: Comparison of ML Algorithms](https://github.com/kysgattu/Citizens-Income-Prediction_Comparision-Of-ML-Algorithms)
+- Predicted citizen income from the UCI Adult Income dataset (48,000 samples) using a range of machine learning algorithms.
+- Compared models with confusion matrices, F1, precision, recall, and accuracy; Random Forest performed best at 92% accuracy.
 
->Develop and Maintain Data Warehousing System for Customer Relationship Management System for a top client in the Automotive Industry.
->
->Perform various ETL Operations depending on client requirements using Informatica PowerCenter and Redshift Database.
->
->Preparing System Documentations as required by client.
->
->Assisting in HR operations for new joiners to the project.
+### 📌 [Face Mask Detection](https://github.com/kysgattu/Face-Mask-Detection)
+- Built a CNN-based system that detects whether people in images or live webcam video are wearing masks, at 90% accuracy.
 
-### Electronics Corporation of India Ltd., Hyderabad
+### 📌 [Detection of Recolored Images Using Deep Discriminative Model](https://github.com/kysgattu/Recolored-Image-Detection)
+- Implemented an IEEE paper's deep learning approach to detecting recolored images using illumination consistency and inter-channel correlation, improving accuracy by 10%.
 
-**_Java Trainee &amp; Intern_** 
-[June 2019-July 2019](https://github.com/kysgattu/Kamal-Yeshodhar-Shastry/blob/b7bb41d4b26a0b12d8f3fab623185f073d52af90/Files/Internship-ECIL.pdf)
+### 📌 [Aadhaar Based Online Voting System](https://github.com/kysgattu/Online-Voting-System)
+- Built a secure online voting channel with Java Server Pages and SQL, used by 2,000+ students in a student body election.
 
->Trained in developing Web Applications using Java, MySQL, JavaScript and HTML.
->
->Part of a project responsible to develop a web application for conducting Elections online (Online Voting System).
+### 📌 [Health Care: Diabetes](https://github.com/kysgattu/Health-Care-Diabetes)
+- Analyzed historical patient data to predict the likelihood of diabetes and measure how each health condition contributes to it.
 
-### SmartBridge Educational Services Pvt. Ltd.
+### 📌 [User Knowledge Modelling](https://github.com/kysgattu/User-Knowledge-Modelling)
+- Built a machine learning model predicting students' knowledge levels in Electrical DC Machines.
 
-**_Machine Learning Trainee &amp; Intern_** 
-[June 2018](https://github.com/kysgattu/Kamal-Yeshodhar-Shastry/blob/b7bb41d4b26a0b12d8f3fab623185f073d52af90/Files/Internship-Smartbridge.pdf)
+## Talk to me about these.....
 
->Trained in basic Machine Learning Methodologies using Python and IBM DSX
->
->Applying Machine Learning algorithms to answer questions in different scenarios in the fields of Education and Healthcare.
+- **_💻 Programming Languages:_** Python, JavaScript, Google Apps Script, Java, C, C++, C#, PowerShell, Bash
+- **_🧠 Machine Learning and AI:_** PyTorch, TensorFlow, Keras, Scikit-learn, Hugging Face, Ultralytics (YOLO), DeepLabCut, OpenCV, NLTK
+- **_📊 Data:_** NumPy, Pandas, Matplotlib, Seaborn
+- **_🗄️ Databases:_** MySQL, MariaDB, PostgreSQL, Microsoft SQL Server, Amazon Redshift
+- **_🌐 Applications:_** Flask, Streamlit, Tkinter, PyInstaller, HTML, CSS
+- **_📡 Infrastructure and IoT:_** Linux, Docker, ZFS, Raspberry Pi, MQTT, Home Assistant
+- **_🔄 ETL Tools:_** Informatica PowerCenter, Informatica Intelligent Cloud Services (IICS)
+- **_🧰 Others:_** Git, GitHub, REST APIs, Google Workspace APIs, Office COM Automation, Apache Tika, VS Code, Jupyter
 
-## OTHER EXPERIENCE
+## I worked with them.....
 
-### University of Massachusetts Lowell
+- **💼 Hooke Laboratories, LLC** _Systems Engineer (Software Development, Machine Learning, IoT, and Team Lead)_
+- **💼 University of Massachusetts Lowell** _Facilities Information Systems Assistant (Python and REST API Developer; Machine Learning)_
+- **💼 Cognizant Technology Solutions India Pvt. Ltd.** _Programmer Analyst Trainee (Data Integration and ETL Developer)_
+- **💼 Electronics Corporation of India Ltd.** _Java Trainee and Intern (Web Developer Intern)_
+- **💼 SmartBridge Educational Services Pvt. Ltd.** _Machine Learning Trainee and Intern_
 
-**_Orientation Leader_** 
-Summer 2022
+## Know about me more?
 
->Guiding First-year and transfer undergraduate students through the registration process.
->
->Giving campus tours to incoming students.
-
-## PROJECTS
-
-**_Academic Project:_**
-
->|     Project Title        |     :    |     [Climate Change Sentiment Analysis](https://github.com/kysgattu/Climate-Change-Twitter-Sentiment-Analysis)                                                                                                                                                                                                    |
-|--------------------------|----------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|     Project Objective    |     :    |     Analyzed the opinion of people by performing sentiment analysis on tweets by Twitter users on the topic of Climate Change. Performed an exploratory data analysis and trained models using various traditional machine learning algorithms and a Deep Learning Model using Recurrent Neural Network approach using Text in Tweets and the frequency of some keywords as features.    |
-|     Project Duration     |     :    |     Spring 2022                                                                                                                                                                                           |
-
-
-**_Academic Project:_**
-
->|     Project Title        |     :    |     [Citizens Income Prediction - Comparision Of ML Algorithms](https://github.com/kysgattu/Citizens-Income-Prediction_Comparision-Of-ML-Algorithms)                                                                                                                                                                                                    |
-|--------------------------|----------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|     Project Objective    |     :    |     Used Adult Income Dataset from UCI Repository to predict the income of citizens and classify people into two categories based on various dependent properties of a person collected during a Census. Developed models using different Traditional Machine Learning Algorithms and used the results obtained are used to compare these algorithms using various evaluation metrics.    |
-|     Project Duration     |     :    |     Spring 2022                                                                                                                                                                                           |
-
-
-
-
-
-**_Academic Project:_**
-
->|     Project Title        |     :    |     [Detection of Recolored Images Using Deep   Discriminative Model](https://github.com/kysgattu/Recolored-Image-Detection)                                                                                                                                     |
-|--------------------------|----------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|     Project Objective    |     :    |     Developing a novel deep learning approach to detect fraudulency in images   based on colors in images using various attributes like Illumination Consistency,   Inter-Channel Correlation, etc., |
-|     Project Duration     |     :    |     January 2020-March 2020 (8th Semester of BTech)                                                                                                                                                     |
-
-
-
-**_Academic Project (Industry Oriented):_**
-
->|     Project Title        |     :    |     [Aadhaar Based Online Voting System](https://github.com/kysgattu/Online-Voting-System)                                                                                                                                                                                                    |
-|--------------------------|----------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|     Project Objective    |     :    |     Developing an alternative voting channel to   increase voter participation, reduce election costs while upholding the   highest security and integrity standards enabling voters to cast their vote   remotely using the internet.    |
-|     Project Duration     |     :    |     June 2019-July 2019 (7th Semester of BTech)                                                                                                                                                                                           |
-
-
-**_Personal Project:_**
-
->|     Project Title        |     :    |     [Face Mask Detection](https://github.com/kysgattu/Face-Mask-Detection)                                                                                                                |
-|--------------------------|----------|----------------------------------------------------------------------------------------------------------------------------------------|
-|     Project Objective    |     :    |     Developing a system to   detect whether person in a video/picture is wearing a mask or not using image   recognition techniques    |
-
-
-
-**_Internship Project:_**
-
->|     Project Title        |     :    |     [Health Care – Diabetes](https://github.com/kysgattu/Health-Care-Diabetes)                                                                                                                                                                                                                |
-|--------------------------|----------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|     Project Objective    |     :    |     Analyzing historical data of group of patients and training system to   detect the possibility of a patient having diabetes based on previous health   conditions and finding effects of each health condition on having diabetes.    |
-
-
-**_Internship Project:_**
-
->|     Project Title        |     :    |     [User Knowledge Modelling ](https://github.com/kysgattu/User-Knowledge-Modelling)                                                                                                                                                                                                                |
-|--------------------------|----------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|     Project Objective    |     :    |     Developing a Machine Learning model for predicting the students’ knowledge status about the subject of Electrical DC Machines based on certain constraints.    |
-
-## SKILLS
-
-
->|                              |          |                                                                                             |
-|------------------------------|----------|---------------------------------------------------------------------------------------------|
-|     Programming Languages    |     :    |     Python, Java, C, C++                                                                    |
-|     Python Libraries         |     :    |     NumPy, Pandas, Scikit-learn, Keras, OpenCV, Matplotlib, Seaborn                         |
-|     ETL Tools                |     :    |     Informatica PowerCenter,     Informatica   Intelligent Cloud Services (IICS)            |
-|     Database                 |     :    |     MySQL, PostgreSQL, Amazon Redshift                                                      |
-|     Web Designing            |     :    |     HTML, CSS, JavaScript, JSP                                                              |
-|     Operating Systems        |     :    |     Unix, Windows                                                                           |
-|     IDE                      |     :    |     Anaconda, Jupyter, NetBeans, Eclipse                                                    |
-|     Office Tools             |     :    |     Microsoft Office:     Word, PowerPoint, Excel                                           |
-|     Others                   |     :    |     Performing Data Analysis      Building/Applications of Machine Learning   Algorithms    |
-
-
-
-
-## MORE ABOUT ME 
-
-> Have been Co-Ordinator for a Department Technical Fest EclipCse-2018 conducted in college.
->
->Follow and play Cricket
->
-> Participated in Inter Department Cricket Championships.
->
-> Love to read Fantasy, Fiction Novels
->
->A Potterhead and Westerosi!
-
-
+🎓 M.S. in Computer Science, [UMass Lowell](https://www.uml.edu/Sciences/computer-science/) &nbsp;|&nbsp; B.Tech in Computer Science and Engineering, [TKREC](https://tkrec.ac.in/department-cse/)
+<br>
+🇮🇳-🇺🇸 Born in India, now living in the USA
+<br>
+🏏 Follow and play cricket
+<br>
+📚 Love to read fantasy and fiction novels
+<br>
+🪄🐺 A Potterhead and Westerosi!
